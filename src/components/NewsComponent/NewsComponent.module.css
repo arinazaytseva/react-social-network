@@ -1,0 +1,6 @@
+.flexContainer {
+    width: 85%;
+    border: 2px solid grey;
+    border-radius: 10px;
+    padding: 20px;
+}

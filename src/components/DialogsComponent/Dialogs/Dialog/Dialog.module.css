@@ -1,0 +1,21 @@
+.item {
+    width: calc(100% - 12px);
+    border: 2px solid grey;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    padding: 5px;
+}
+
+.item {
+    text-decoration: none;
+}
+
+.item__link {
+    color: black;
+}
+
+.active {
+    color: black;
+    font-weight: bold;
+}

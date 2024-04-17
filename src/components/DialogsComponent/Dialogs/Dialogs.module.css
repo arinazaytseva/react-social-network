@@ -1,0 +1,9 @@
+.dialogs {
+    width: calc(20% - 2px);
+    border: 2px solid grey;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+    gap: 20px;
+}

@@ -1,0 +1,10 @@
+.flexContainer {
+    width: 85%;
+    border: 2px solid grey;
+    border-radius: 10px;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    /* justify-content: center; */
+    /* gap: 20px; */
+}

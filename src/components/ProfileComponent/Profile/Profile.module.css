@@ -1,0 +1,28 @@
+.profile {
+    width: calc(100% - 2px);
+    border: 2px solid grey;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: row;
+  }
+  
+.picture {
+    width: 20%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+}
+
+img {
+    width: 100%;
+}
+
+.description {
+    width: calc(80% - 40px);
+    padding: 20px;
+}
+
+.item {
+    padding: 5px;
+}

@@ -1,0 +1,11 @@
+.item {
+    width: calc(100% - 2px);
+    display: flex;
+    justify-content: flex-end;
+}
+
+.item__text {
+    border: 2px solid grey;
+    border-radius: 10px;
+    padding: 5px;
+}

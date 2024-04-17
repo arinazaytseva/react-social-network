@@ -1,0 +1,11 @@
+input {
+    border-radius: 5px;
+    padding: 5px;
+}
+.error {
+    border: solid 2px red;
+}
+.errorText {
+    font-size: 14px;
+    color: red;
+}
